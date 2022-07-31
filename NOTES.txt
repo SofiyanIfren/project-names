@@ -1,0 +1,10 @@
+##################################################################
+################## api behindthenames ############################
+##################################################################
+1 - scrapper les données du site : https://www.behindthename.com (JSOUP)
+2 - stateless :
+    + créer des objets java (Name, )
+    + { id : 1, name : "toto", gender : "m", origin : "african" }
+3 - stateful : stocker en sql (MYSQL)
+4 - délivrer sous forme de JSON la data (les noms)
+5 - traduire les description des prénoms
